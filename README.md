@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![Uploading image.png…]()
 
+### Name: Adchayakiruthika M S
 
-### Name:
-### Register Number:
+### Register Number: 212223230005
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
